@@ -53,11 +53,10 @@ This Power BI dashboard provides a comprehensive overview of global sales perfor
 
 ## 📂 File Structure
 
-/GlobalSalesDashboard/
-│
-├── GlobalSalesDashboard.pbix # Power BI dashboard file
-├── README.md # This file
-├── /data/ # (Optional) Raw or cleaned datasets
+
+─ GlobalSalesDashboard.pbix # Power BI dashboard file
+─ README.md # This file
+─ /data/ # (Optional) Raw or cleaned datasets
 
 
 ---
